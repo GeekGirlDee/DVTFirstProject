@@ -261,5 +261,5 @@ __pycache__/
 *.pyc
 
 # Added files
-/ignore.cs/
+/GitMVCApp/ignore.cs/
 /GitMVCApp/Class.cs
