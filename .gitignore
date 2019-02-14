@@ -261,4 +261,4 @@ __pycache__/
 *.pyc
 
 # Added files
-/ignore.cs
+/ignore.cs/
